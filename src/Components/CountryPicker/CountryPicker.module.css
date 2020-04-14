@@ -1,0 +1,8 @@
+.container {
+    margin: 50px;
+}
+
+.formControl {
+
+    flex-grow: 1;
+}
